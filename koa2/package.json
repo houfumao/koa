@@ -12,8 +12,7 @@
   ],
   "author": "houfumao",
   "license": "Apache-2.0",
-  "repository": {
-  },
+  "repository": {},
   "dependencies": {
     "koa": "2.0.0"
   }
